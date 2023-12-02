@@ -95,7 +95,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   buttonText: {
-    fontFamily: 'Arial',
+    //fontFamily: 'Arial',
     fontSize: 30,
     color: 'white'
   },
@@ -107,7 +107,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   buttonText2: {
-    fontFamily: 'Arial',
+    //fontFamily: 'Arial',
     fontSize: 16,
     color: 'white',
     fontWeight: 'bold'

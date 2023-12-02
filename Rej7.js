@@ -93,7 +93,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   text: {
-    fontFamily: 'Arial',
+    //fontFamily: 'Arial',
     fontSize: 20
   },
   div2: {
@@ -115,7 +115,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   text2: {
-    fontFamily: 'Arial',
+    //fontFamily: 'Arial',
     fontSize: 30,
     color: 'white'
   },
@@ -138,7 +138,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   rejText: {
-    fontFamily: 'Arial',
+    //fontFamily: 'Arial',
     fontSize: 20
   }
 });

@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center'
   },
   text: {
-    fontFamily: 'Arial',
+    //fontFamily: 'Arial',
     fontSize: 20
   },
   div2: {
@@ -104,7 +104,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   text2: {
-    fontFamily: 'Arial',
+    //fontFamily: 'Arial',
     fontSize: 20
   },
   div3: {
@@ -117,7 +117,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   text3: {
-    fontFamily: 'Arial',
+    //fontFamily: 'Arial',
     fontSize: 30,
     color: 'white'
   },
@@ -125,7 +125,7 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     padding: 15,
     borderRadius: 25,
-    fontFamily: 'Arial',
+    //fontFamily: 'Arial',
     fontSize: 26,
     color: '#c0c0c0'
   },
